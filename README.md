@@ -9,7 +9,7 @@ This script is provided as is and comes with no warranty nor liability.
 This was part of a bachelor semester project carried out at the [Laboratory of Computational Neuroscience](http://lcn1.epfl.ch) 
 from [Swiss Institute of Technology in Lausanne](http://www.epfl.ch). 
 The command was used to evaluate different approaches of implementing spike-timing dependent plasticity on various size and networks.
-You can find the resulting work (here)[https://github.com/zifeo/nest-stdpmodule].
+You can find the resulting work [here](https://github.com/zifeo/nest-stdpmodule).
 
 ### Subcommands
 
