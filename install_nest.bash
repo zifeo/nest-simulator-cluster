@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Install NEST simulator
+
 cd ~
 git clone https://github.com/nest/nest-simulator.git nest
 cd nest

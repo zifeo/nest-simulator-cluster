@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Install STDP module
+# https://github.com/zifeo/nest-stdpmodule
+
 cd ~
 git clone https://github.com/zifeo/NEST-STDPModule.git stdpmodule
 cd stdpmodule

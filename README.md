@@ -1,4 +1,4 @@
-## NEST simulator cluster
+## NEST-simulator Beowulf cluster
 
 The deloy system requires at least python 2.7 and DigitalOcean [python-bindings](https://github.com/koalalorenzo/python-digitalocean) (`pip install -U python-digitalocean`).
 It was tested up to **1/2** million neurons (Brunnel balanced network) on **400**vcpus with **1.28**To RAM for ~19$ hourly.
